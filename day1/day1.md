@@ -1,12 +1,22 @@
+# #Day1 Getting Started
+
 [![Python 3.5](https://img.shields.io/badge/Python-3.x-yellow.svg)](http://www.python.org/download/)
-[![python](https://img.shields.io/badge/Tech-Job-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
+[![python](https://img.shields.io/badge/Day-1-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
 [![OS](https://img.shields.io/badge/From%20-Zero%20%7C%20Hero-yellowgreen.svg)](https://termux.com/)
 
-
+<div>
 <img href="google.com" src="https://user-images.githubusercontent.com/79694828/230014332-40078db9-dcdb-4403-8e58-cfbe8572a89b.png" width="60" height="60" />
 
-<h1> Day 1</h1>
+<img href="google.com" src="https://user-images.githubusercontent.com/79694828/230322721-075303f2-8de3-4145-816c-97e3f2bbd058.png" width="60" height="60" />
 
+
+<img href="google.com" src="https://user-images.githubusercontent.com/79694828/230322688-b0c397a4-b058-4251-bb11-b0688885521f.png" width="60" height="60" />
+
+
+<img href="google.com" src="https://user-images.githubusercontent.com/79694828/230325097-f1a79e17-3711-4168-9214-a3d92db63750.png" width="60" height="60" />
+
+
+</div> 
 ## Getting started 
 
 Setting up environment's
