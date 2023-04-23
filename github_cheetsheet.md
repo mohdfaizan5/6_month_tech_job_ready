@@ -17,7 +17,8 @@ Step2: Setting up awesome profile: (The imp one)
     * Add your social links.
 
 Step3: Setting up readme.md
-    * visit: (ProfileMe.dev)[]
+    * visit: [ProfileMe.dev](httpswww.profileme.dev)
+
 
 
 
